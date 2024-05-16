@@ -1,4 +1,4 @@
-# Saurabh Gupta - Data Analyst
+# Saurabh Gupta - Data Analyst | SQL Developer | Power Bi Developer 
 
 
 Hi there! I'm Saurabh Gupta, a Data Analyst with a passion for extracting insights from data. I leverage my skills in SQL, TSQL, SSMS, SSRS, and Power BI to transform raw data into actionable information.
@@ -15,10 +15,9 @@ This repository showcases my data analysis projects and technical capabilities. 
 **What you'll find here:**
 
 * Data analysis projects demonstrating my understanding of data cleaning, transformation, and visualization.
-  * Images showcasing final data visualizations created using Power BI (replace with screenshots of your own work)
 * Code snippets and scripts showcasing my proficiency in SQL and TSQL for data manipulation.
-* Power BI reports illustrating my ability to create clear and compelling visualizations. (Link to your reports if publicly available)
-
+* Power BI reports illustrating my ability to create clear and compelling visualizations.
+  
 **Feel free to:**
 
 * Reach out for collaboration opportunities! I'm always eager to learn and grow alongside other data enthusiasts. 
