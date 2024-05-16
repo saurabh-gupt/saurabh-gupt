@@ -1,16 +1,29 @@
-### Hi there 👋
+# Saurabh Gupta - Data Analyst
 
-<!--
-**saurabh-gupt/saurabh-gupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there! I'm Saurabh Gupta, a Data Analyst with a passion for extracting insights from data. I leverage my skills in SQL, TSQL, SSMS, SSRS, and Power BI to transform raw data into actionable information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository showcases my data analysis projects and technical capabilities. Feel free to explore and learn more about my approach to data-driven problem-solving.
+
+**Technical Skills:**
+
+* **Databases:** SQL, TSQL
+* **Data Management:** SSMS (SQL Server Management Studio)
+* **Reporting:** SSRS (SQL Server Reporting Services)
+* **Data Visualization:** Power BI
+
+**What you'll find here:**
+
+* Data analysis projects demonstrating my understanding of data cleaning, transformation, and visualization.
+  * Images showcasing final data visualizations created using Power BI (replace with screenshots of your own work)
+* Code snippets and scripts showcasing my proficiency in SQL and TSQL for data manipulation.
+* Power BI reports illustrating my ability to create clear and compelling visualizations. (Link to your reports if publicly available)
+
+**Feel free to:**
+
+* Reach out for collaboration opportunities! I'm always eager to learn and grow alongside other data enthusiasts. 
+* Explore my code and provide constructive feedback.
+
+**Stay tuned!**
+
+This repository is constantly evolving as I take on new challenges and add to my skillset. Be sure to check back for exciting new projects in the future!
